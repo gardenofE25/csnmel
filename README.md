@@ -15,6 +15,5 @@ this is a only text
 
 
 ...
-
 this is an example of coding 
 ...
