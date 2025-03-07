@@ -14,6 +14,6 @@ this is a only text
 >this is a quote
 
 
-...
+```
 this is an example of coding 
-...
+```
